@@ -67,7 +67,7 @@ export default function App() {
               className="text-6xl w-max-content bg-gradient-to-r from-sky-300 to-slate-50 text-black font-bold leading-tight rounded-lg flex align-middle"
               style={{
                 background:
-                  "linear-gradient(90deg, #9c93ee 0%, rgba(255,255,255,1) 47%)",
+                  "linear-gradient(90deg, #94574e 0%, rgba(255,255,255,1) 47%)",
               }}>
               Responses
             </h1>
